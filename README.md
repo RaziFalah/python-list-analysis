@@ -87,7 +87,7 @@ command `sort`
 
 sort the whole list by the alphabet or number count includeing floats
 
-### use exit to exit the file
+### use `exit` to exit the file
 
 <h1>Proof that this file is clean form viruses</h1>
 
