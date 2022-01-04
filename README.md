@@ -9,7 +9,7 @@
 
 Please clone the following git   to your python ide and start the terminal in the same dict of the cloned file
 
-git: `https://github.com/RaziFalah/python-list-analysis`
+git: `git clone https://github.com/RaziFalah/python-list-analysis`
 
 ### step tow:
 run the file using the following command
