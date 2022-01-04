@@ -115,5 +115,8 @@ while 0 != 1:
   elif ask_for_command == "EXIT":
       print("Ok, bye.")
       exit()
+  elif ask_for_command == "CLEAR CLI":
+      import os
+      os.system('cls' if os.name == 'nt' else 'clear')
   else:
       print("Error: action is unkown, try again")
