@@ -2,7 +2,14 @@
 #Copyright (C) 2022 razifalah.com
 #https://razifalah.com
 #According to the applied license: LICENSE GNU General Public License v3.0
-#You do not have the right to republish sell or edit this project, use it only for private use and educational purposes
+#You do not have the right to republish sell or edit this project, use it only for private use or educational purposes
+
+print("==============================")
+print("| lists analysis  with python|")
+print("| www.razifalah.com          |")
+print("| By Razi Falah              |")
+print("|Copyright(C) 2022 Razi falah|")
+print("|============================|")
 
 from typing import Counter
 
